@@ -4,17 +4,17 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:16123",
-      "sslPort": 44326
+      "applicationUrl": "http://localhost:33088",
+      "sslPort": 44397
     }
   },
   "profiles": {
-    "TradeYourCard": {
+    "TradeYouCard.API": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7254;http://localhost:5117",
+      "applicationUrl": "https://localhost:7076;http://localhost:5062",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
